@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_e952602fc1e03bf74647219830fa9d813f471561.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_48d13934232512bfbfa60926f487819d62a3e29a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_e66a064d9f6077f3c09b20ca6a3ce6c15de51805.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="023ee503b631f69511e335a061ea008f8da60f40">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/support-annotations-26.0.0-alpha1_e8060e5f703890e64377ea0a083a76a337f92170.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/support-v4/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-26.0.0-alpha1_7fddcf6045697bb0195883713327e18792f2d8cd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_47a74f88cc4dbaf6f91afe7a12be099b56aa02d2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support.constraint/constraint-layout/1.0.2/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support.constraint-constraint-layout-1.0.2_b781f2afd12fc5cd77f25535729fc8a8e041119b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="952944218ecedea1554a513dec0c14d570642843">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-26.0.0-alpha1_354216a37b3ccc0cdead05e308143e366c8c4081.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/ChatImg/ChatPlanLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67dcf7a9a193fe5504da3a08978b32d12fb3c812">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/ChatImg-ChatPlanLibrary-unspecified_eea1001bf83a3e6fc1f9128f5187a760c2497b08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/transition/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cddcd0fb93bc70e27325f2f715b2710332004ebb">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-transition-26.0.0-alpha1_dd01999c07e844ad12b202efcea3ccaab5aa9738.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_0487add0dedc08635ea6688640f773b1e8d04191.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/support-media-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="9935891f23923f39d002087085d9696568a9f657">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-26.0.0-alpha1_f61618c96953433dbf26de2d660acab001652ac1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_9ce89672619fb781fc89d398a354cc873d730640.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_4ed05aee3a21bd8dc5ef676e7b78ee1521170c05.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/support-fragment/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-26.0.0-alpha1_05a4aff8b8ce199fedb82c3be8a1b08424aa690b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_3957ab18ba4f726505b9c7b759b4f226d2a0def0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_02e0bc06d208cf43d2a12149b846b8cd4357c141.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/ChatImg/ChatPlanLibrary/unspecified/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="67dcf7a9a193fe5504da3a08978b32d12fb3c812">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/ChatImg-ChatPlanLibrary-unspecified_10adbe84b231a8bacff6d8e9dc9337a37a20365c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/appcompat-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-26.0.0-alpha1_cb7a343cc85f7c20e62f41bb71bc43da394ab3c7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_e4e49a92b51d84fc536ddd2911f4250d5a9b70c5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c4f45092eee6cdf1a5dbd597b2b6819be652ce2e">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-recyclerview-v7-26.0.0-alpha1_dc9a89a03a2306fb859c128ee00536eafc4a3482.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-26.0.0-alpha1_8cd1f1c634db9ca55f304a31133853beb01021bd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/design/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6a022bf00ccd0948a8180c505e8e458bbddd43a6">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-design-26.0.0-alpha1_904ac10dc401b201ab75c088eb1dd544a872c398.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/exploded-aar/com.android.support/support-compat/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
+        <dex dex="/Users/tigo/Desktop/ChatImg/chatplan/build/intermediates/pre-dexed/debug/com.android.support-support-compat-26.0.0-alpha1_b65e5acc5785c72cb6b9104ded5aaccefbabdf0a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-26.0.0-alpha1_30b277aad08d5d83e141ed54070594a8273621d0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/tigo/Desktop/ChatImg/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/26.0.0-alpha1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
+        <dex dex="/Users/tigo/Desktop/ChatImg/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-26.0.0-alpha1_a16e72842a6aeb8c5c8d217bd9171b7645be2e6b.jar" />
+    </item>
+
+</items>
